@@ -29,7 +29,7 @@ Delete a user
 
 /user/rmUser/{id} DELETE
 
-Disconnect the user from his session
+
 The MIT License (MIT)
 
 Copyright (c) 2016 Lionel Quellery
