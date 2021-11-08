@@ -13,19 +13,21 @@ Installation
 
 Utilization
 
-
-/user/get/{id} GET
-
 Create new user account
+
+/user/getUser/{id} GET
+
 Parameters :
 
     name (REQUIRED) : your account name
     
 Get user by id
-/user/create/{id} GET
+
+/user/addUser/{id} GET
 
 Delete a user
-/user/delete/{id} DELETE
+
+/user/rmUser/{id} DELETE
 
 Disconnect the user from his session
 The MIT License (MIT)
