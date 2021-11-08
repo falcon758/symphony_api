@@ -1,0 +1,4 @@
+security:
+    enable_authenticator_manager: true
+    providers:
+        users_in_memory: { memory: null }
